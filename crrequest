@@ -1,8 +1,8 @@
 {
-    "courtCaseField": "Court Case #" 
-    "techIdField": "Tech ID"
-    "forTeamField": "Team ID"
-    "forTypeField": "Type"
-    "startDateField": "Start Date"
+    "courtCaseField": "Court Case #", 
+    "techIdField": "Tech ID",
+    "forTeamField": "Team ID",
+    "forTypeField": "Type",
+    "startDateField": "Start Date",
     "endDateField": "End Date"
 }
