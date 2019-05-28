@@ -1,12 +1,30 @@
-  courtCaseField = '';
+{
+  "courtCaseField": 
 
-  techIdField = '';
+  "techIdField":
 
-  forTeamField = '';
+  "forTeamField":
 
-  forTypeField = '';
+  "forTypeField":
 
-  startDateField = '';
+  "startDateField":
   
-  endDateField = '';
+  "endDateField":
+}
+
+{
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Review 1"
+    },
+    {
+      "id": 2,
+      "title": "Review 2"
+    },
+    {
+      "id": 3,
+      "title": "Review 3"
+    }
+  ]
 }
