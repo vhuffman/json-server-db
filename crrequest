@@ -1,0 +1,12 @@
+  courtCaseField = '';
+
+  techIdField = '';
+
+  forTeamField = '';
+
+  forTypeField = '';
+
+  startDateField = '';
+  
+  endDateField = '';
+}
