@@ -1,12 +1,8 @@
 {
- "request": [
-   {
-    "courtCaseField": 
-    "techIdField":
-    "forTeamField":
-    "forTypeField":
-    "startDateField":
-    "endDateField":
-   }
- ]
+    "courtCaseField": "Court Case #" 
+    "techIdField": "Tech ID"
+    "forTeamField": "Team ID"
+    "forTypeField": "Type"
+    "startDateField": "Start Date"
+    "endDateField": "End Date"
 }
